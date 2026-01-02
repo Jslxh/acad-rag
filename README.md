@@ -67,7 +67,6 @@ python app.py
 ## Usage Flow
 
 ```text
-
 1. Register / Login via the web interface
 2. Upload academic PDFs from the Documents page
 3. Ask questions from the Dashboard

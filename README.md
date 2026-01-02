@@ -66,12 +66,12 @@ python app.py
 
 ## Usage Flow
 
-```bash
+```text
 
-# 1. Register / Login via the web interface
-# 2. Upload academic PDFs from the Documents page
-# 3. Ask questions from the Dashboard
-# 4. Receive context-aware answers generated using RAG
+1. Register / Login via the web interface
+2. Upload academic PDFs from the Documents page
+3. Ask questions from the Dashboard
+4. Receive context-aware answers generated using RAG
 ```
 ## Privacy & Offline Support
 

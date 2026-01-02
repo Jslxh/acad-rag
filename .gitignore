@@ -1,0 +1,58 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# ------------------------------
+# Environment variables
+# ------------------------------
+.env
+.env.*
+
+# ------------------------------
+# OS / Editor files
+# ------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ------------------------------
+# Database files
+# ------------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# ------------------------------
+# Data & user uploads
+# ------------------------------
+data/
+data/**
+
+# User-specific documents
+users/
+users/**
+
+# ------------------------------
+# Vector store / embeddings
+# ------------------------------
+*.faiss
+*.index
+*.pkl
+
+# ------------------------------
+# Logs & temp files
+# ------------------------------
+*.log
+*.tmp
+
+
